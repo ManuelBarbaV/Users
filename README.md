@@ -30,7 +30,7 @@ CREATE TABLE postgres.users (
 
 ./mvnw spring-boot:run
 
-(O bien, desde IntelliJ usando el botón verde "Run")
+(O bien, desde IntelliJ usando el botón verde "Run") Agregando el RUN en el VM el siguiente comando: -Dnet.bytebuddy.experimental=true 
 
 ## 🔐 Usuario y Contraseña de Prueba
 
